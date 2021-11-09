@@ -1,4 +1,4 @@
-module github.com/KiraCore/sekai
+module github.com/mrlutik/sekai_test
 
 go 1.14
 
