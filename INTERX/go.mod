@@ -1,4 +1,4 @@
-module github.com/KiraCore/sekai/INTERX
+module github.com/mrlutik/sekai_test/INTERX
 
 go 1.14
 
